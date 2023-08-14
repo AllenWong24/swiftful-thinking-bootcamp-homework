@@ -1,2 +1,2 @@
 # swiftful-thinking-bootcamp-homework
-Thanks https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB
+Thanks https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO
