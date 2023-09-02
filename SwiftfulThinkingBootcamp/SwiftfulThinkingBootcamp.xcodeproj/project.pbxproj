@@ -18,6 +18,7 @@
 		5E730D9E2AA3255C00C7A530 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730D9D2AA3255C00C7A530 /* IconsBootcamp.swift */; };
 		5E730DA02AA3300B00C7A530 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730D9F2AA3300B00C7A530 /* ImageBootcamp.swift */; };
 		5E730DA22AA3373300C7A530 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DA12AA3373300C7A530 /* FrameBootcamp.swift */; };
+		5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DA32AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		5E730D9D2AA3255C00C7A530 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		5E730D9F2AA3300B00C7A530 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		5E730DA12AA3373300C7A530 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		5E730DA32AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				5E730D9D2AA3255C00C7A530 /* IconsBootcamp.swift */,
 				5E730D9F2AA3300B00C7A530 /* ImageBootcamp.swift */,
 				5E730DA12AA3373300C7A530 /* FrameBootcamp.swift */,
+				5E730DA32AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
+				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				5E730D9A2A90B95600C7A530 /* ColorsBootcamp.swift in Sources */,
 				5E730DA22AA3373300C7A530 /* FrameBootcamp.swift in Sources */,
 				5E730D982A8D0D9E00C7A530 /* ShapesBootcamp.swift in Sources */,
