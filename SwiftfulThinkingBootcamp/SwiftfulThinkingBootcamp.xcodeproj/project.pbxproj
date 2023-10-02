@@ -37,6 +37,7 @@
 		5E730DC42ACAE1F500C7A530 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */; };
 		5E730DC62ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */; };
 		5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */; };
+		5E730DCA2ACB0F1700C7A530 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC92ACB0F1700C7A530 /* SheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		5E730DC92ACB0F1700C7A530 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */,
 				5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */,
 				5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */,
+				5E730DC92ACB0F1700C7A530 /* SheetsBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E730DCA2ACB0F1700C7A530 /* SheetsBootcamp.swift in Sources */,
 				5E730DB82ACAAFB500C7A530 /* StateBootcamp.swift in Sources */,
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
 				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
