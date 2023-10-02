@@ -35,6 +35,7 @@
 		5E730DC02ACADC0600C7A530 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DBF2ACADC0600C7A530 /* ConditionalBootcamp.swift */; };
 		5E730DC22ACADE3B00C7A530 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */; };
 		5E730DC42ACAE1F500C7A530 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */; };
+		5E730DC62ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		5E730DBF2ACADC0600C7A530 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				5E730DBF2ACADC0600C7A530 /* ConditionalBootcamp.swift */,
 				5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */,
 				5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */,
+				5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -222,6 +225,7 @@
 				5E730DC22ACADE3B00C7A530 /* TernaryBootcamp.swift in Sources */,
 				5E730D982A8D0D9E00C7A530 /* ShapesBootcamp.swift in Sources */,
 				5E730DB62ACAA68D00C7A530 /* ButtonsBootcamp.swift in Sources */,
+				5E730DC62ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift in Sources */,
 				5E730DB42AA4890100C7A530 /* SafeAreaBootcamp.swift in Sources */,
 				5E730D8A2A8A672B00C7A530 /* ContentView.swift in Sources */,
 				5E730DAE2AA4774800C7A530 /* ForEachBootcamp.swift in Sources */,
