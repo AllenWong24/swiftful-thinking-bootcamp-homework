@@ -36,6 +36,7 @@
 		5E730DC22ACADE3B00C7A530 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */; };
 		5E730DC42ACAE1F500C7A530 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */; };
 		5E730DC62ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */; };
+		5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				5E730DC12ACADE3B00C7A530 /* TernaryBootcamp.swift */,
 				5E730DC32ACAE1F500C7A530 /* AnimationBootcamp.swift */,
 				5E730DC52ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift */,
+				5E730DC72ACAFA9900C7A530 /* TransitionBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -231,6 +234,7 @@
 				5E730DAE2AA4774800C7A530 /* ForEachBootcamp.swift in Sources */,
 				5E730D962A8D05D100C7A530 /* TextBootcamp.swift in Sources */,
 				5E730D882A8A672B00C7A530 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */,
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
 				5E730DBE2ACAC0CB00C7A530 /* BindingBootcamp.swift in Sources */,
 				5E730DAA2AA46C5D00C7A530 /* SpacerBootcamp.swift in Sources */,
