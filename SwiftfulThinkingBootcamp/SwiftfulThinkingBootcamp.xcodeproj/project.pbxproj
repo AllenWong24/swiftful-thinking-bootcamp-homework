@@ -28,6 +28,7 @@
 		5E730DB22AA481AD00C7A530 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DB12AA481AD00C7A530 /* GridBootcamp.swift */; };
 		5E730DB42AA4890100C7A530 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DB32AA4890100C7A530 /* SafeAreaBootcamp.swift */; };
 		5E730DB62ACAA68D00C7A530 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DB52ACAA68D00C7A530 /* ButtonsBootcamp.swift */; };
+		5E730DB82ACAAFB500C7A530 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DB72ACAAFB500C7A530 /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		5E730DB12AA481AD00C7A530 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		5E730DB32AA4890100C7A530 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		5E730DB52ACAA68D00C7A530 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		5E730DB72ACAAFB500C7A530 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				5E730DB12AA481AD00C7A530 /* GridBootcamp.swift */,
 				5E730DB32AA4890100C7A530 /* SafeAreaBootcamp.swift */,
 				5E730DB52ACAA68D00C7A530 /* ButtonsBootcamp.swift */,
+				5E730DB72ACAAFB500C7A530 /* StateBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -188,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E730DB82ACAAFB500C7A530 /* StateBootcamp.swift in Sources */,
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
 				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				5E730DB02AA480B000C7A530 /* ScrollViewBootcamp.swift in Sources */,
