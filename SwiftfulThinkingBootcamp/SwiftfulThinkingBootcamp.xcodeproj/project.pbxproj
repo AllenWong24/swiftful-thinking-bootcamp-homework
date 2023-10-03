@@ -42,6 +42,7 @@
 		5E730DCE2ACBE16C00C7A530 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DCD2ACBE16C00C7A530 /* NavigationViewBootcamp.swift */; };
 		5E730DD02ACBEB8C00C7A530 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */; };
 		5E730DD22ACBF3CC00C7A530 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */; };
+		5E730DD42ACBF84100C7A530 /* ActionsheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		5E730DCD2ACBE16C00C7A530 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				5E730DCD2ACBE16C00C7A530 /* NavigationViewBootcamp.swift */,
 				5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */,
 				5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */,
+				5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -230,6 +233,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E730DD42ACBF84100C7A530 /* ActionsheetBootcamp.swift in Sources */,
 				5E730DCA2ACB0F1700C7A530 /* SheetsBootcamp.swift in Sources */,
 				5E730DB82ACAAFB500C7A530 /* StateBootcamp.swift in Sources */,
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
