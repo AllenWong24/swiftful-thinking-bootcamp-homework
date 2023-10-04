@@ -48,6 +48,7 @@
 		5E730DDA2ACD56A000C7A530 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD92ACD56A000C7A530 /* TextEditorBootcamp.swift */; };
 		5E730DDC2ACD5CCF00C7A530 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DDB2ACD5CCF00C7A530 /* ToggleBootcamp.swift */; };
 		5E730DDE2ACD717800C7A530 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DDD2ACD717800C7A530 /* PickerBootcamp.swift */; };
+		5E730DE02ACD735900C7A530 /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DDF2ACD735900C7A530 /* ColorPickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -93,6 +94,7 @@
 		5E730DD92ACD56A000C7A530 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		5E730DDB2ACD5CCF00C7A530 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		5E730DDD2ACD717800C7A530 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		5E730DDF2ACD735900C7A530 /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				5E730DD92ACD56A000C7A530 /* TextEditorBootcamp.swift */,
 				5E730DDB2ACD5CCF00C7A530 /* ToggleBootcamp.swift */,
 				5E730DDD2ACD717800C7A530 /* PickerBootcamp.swift */,
+				5E730DDF2ACD735900C7A530 /* ColorPickerBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -278,6 +281,7 @@
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
 				5E730DCC2ACB170C00C7A530 /* PopoverBootcamp.swift in Sources */,
 				5E730DBE2ACAC0CB00C7A530 /* BindingBootcamp.swift in Sources */,
+				5E730DE02ACD735900C7A530 /* ColorPickerBootcamp.swift in Sources */,
 				5E730DAA2AA46C5D00C7A530 /* SpacerBootcamp.swift in Sources */,
 				5E730DD82ACD4B5500C7A530 /* TextfieldBootcamp.swift in Sources */,
 				5E730DC42ACAE1F500C7A530 /* AnimationBootcamp.swift in Sources */,
