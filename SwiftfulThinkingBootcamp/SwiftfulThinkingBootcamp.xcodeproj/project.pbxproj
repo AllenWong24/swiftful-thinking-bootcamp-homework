@@ -52,6 +52,7 @@
 		5E730DE22ACD8A8200C7A530 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE12ACD8A8200C7A530 /* DatePickerBootcamp.swift */; };
 		5E730DE42ACD916F00C7A530 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE32ACD916F00C7A530 /* StepperBootcamp.swift */; };
 		5E730DE62ACD945100C7A530 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */; };
+		5E730DE82ACDAACD00C7A530 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,6 +102,7 @@
 		5E730DE12ACD8A8200C7A530 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		5E730DE32ACD916F00C7A530 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				5E730DE12ACD8A8200C7A530 /* DatePickerBootcamp.swift */,
 				5E730DE32ACD916F00C7A530 /* StepperBootcamp.swift */,
 				5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */,
+				5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				5E730DD42ACBF84100C7A530 /* ActionsheetBootcamp.swift in Sources */,
 				5E730DCA2ACB0F1700C7A530 /* SheetsBootcamp.swift in Sources */,
 				5E730DB82ACAAFB500C7A530 /* StateBootcamp.swift in Sources */,
+				5E730DE82ACDAACD00C7A530 /* TabViewBootcamp.swift in Sources */,
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
 				5E730DDA2ACD56A000C7A530 /* TextEditorBootcamp.swift in Sources */,
 				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
