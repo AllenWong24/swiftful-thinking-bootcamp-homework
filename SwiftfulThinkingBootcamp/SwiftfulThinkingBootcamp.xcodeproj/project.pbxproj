@@ -58,6 +58,7 @@
 		5E730DEE2ACDC50E00C7A530 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DED2ACDC50E00C7A530 /* OnAppearBootcamp.swift */; };
 		5E730DF02ACDC9FD00C7A530 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DEF2ACDC9FD00C7A530 /* IfLetGuardBootcamp.swift */; };
 		5E730DF22ACDCD7100C7A530 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF12ACDCD7100C7A530 /* TapGestureBootcamp.swift */; };
+		5E730DF42ACDD35200C7A530 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +114,7 @@
 		5E730DED2ACDC50E00C7A530 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		5E730DEF2ACDC9FD00C7A530 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 		5E730DF12ACDCD7100C7A530 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 				5E730DED2ACDC50E00C7A530 /* OnAppearBootcamp.swift */,
 				5E730DEF2ACDC9FD00C7A530 /* IfLetGuardBootcamp.swift */,
 				5E730DF12ACDCD7100C7A530 /* TapGestureBootcamp.swift */,
+				5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -284,6 +287,7 @@
 				5E730DE82ACDAACD00C7A530 /* TabViewBootcamp.swift in Sources */,
 				5E730D9C2A90C15000C7A530 /* GradientsBootcamp.swift in Sources */,
 				5E730DF22ACDCD7100C7A530 /* TapGestureBootcamp.swift in Sources */,
+				5E730DF42ACDD35200C7A530 /* ModelBootcamp.swift in Sources */,
 				5E730DDA2ACD56A000C7A530 /* TextEditorBootcamp.swift in Sources */,
 				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				5E730DB02AA480B000C7A530 /* ScrollViewBootcamp.swift in Sources */,
