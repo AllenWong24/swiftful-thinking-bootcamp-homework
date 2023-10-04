@@ -54,6 +54,7 @@
 		5E730DE62ACD945100C7A530 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */; };
 		5E730DE82ACDAACD00C7A530 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */; };
 		5E730DEA2ACDAED100C7A530 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DE92ACDAED100C7A530 /* DarkModeBootcamp.swift */; };
+		5E730DEC2ACDB43C00C7A530 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DEB2ACDB43C00C7A530 /* DocumentationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -105,6 +106,7 @@
 		5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		5E730DE92ACDAED100C7A530 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
+		5E730DEB2ACDB43C00C7A530 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 				5E730DE52ACD945100C7A530 /* SliderBootcamp.swift */,
 				5E730DE72ACDAACD00C7A530 /* TabViewBootcamp.swift */,
 				5E730DE92ACDAED100C7A530 /* DarkModeBootcamp.swift */,
+				5E730DEB2ACDB43C00C7A530 /* DocumentationBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -295,6 +298,7 @@
 				5E730D882A8A672B00C7A530 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				5E730DDC2ACD5CCF00C7A530 /* ToggleBootcamp.swift in Sources */,
 				5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */,
+				5E730DEC2ACDB43C00C7A530 /* DocumentationBootcamp.swift in Sources */,
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
 				5E730DCC2ACB170C00C7A530 /* PopoverBootcamp.swift in Sources */,
 				5E730DEA2ACDAED100C7A530 /* DarkModeBootcamp.swift in Sources */,
