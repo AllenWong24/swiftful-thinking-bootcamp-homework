@@ -43,6 +43,7 @@
 		5E730DD02ACBEB8C00C7A530 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */; };
 		5E730DD22ACBF3CC00C7A530 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */; };
 		5E730DD42ACBF84100C7A530 /* ActionsheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */; };
+		5E730DD62ACD419400C7A530 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DD52ACD419400C7A530 /* ContextMenuBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsheetBootcamp.swift; sourceTree = "<group>"; };
+		5E730DD52ACD419400C7A530 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				5E730DCF2ACBEB8C00C7A530 /* ListBootcamp.swift */,
 				5E730DD12ACBF3CC00C7A530 /* AlertBootcamp.swift */,
 				5E730DD32ACBF84100C7A530 /* ActionsheetBootcamp.swift */,
+				5E730DD52ACD419400C7A530 /* ContextMenuBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 				5E730DA42AA33C6700C7A530 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				5E730DB02AA480B000C7A530 /* ScrollViewBootcamp.swift in Sources */,
 				5E730DA82AA3972300C7A530 /* PaddingAndSpacerBootcamp.swift in Sources */,
+				5E730DD62ACD419400C7A530 /* ContextMenuBootcamp.swift in Sources */,
 				5E730D9A2A90B95600C7A530 /* ColorsBootcamp.swift in Sources */,
 				5E730DBC2ACAB9B000C7A530 /* ExtractSubviewsBootcamp.swift in Sources */,
 				5E730DA22AA3373300C7A530 /* FrameBootcamp.swift in Sources */,
