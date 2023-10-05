@@ -61,6 +61,7 @@
 		5E730DF42ACDD35200C7A530 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */; };
 		5E730DF62ACE99E900C7A530 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */; };
 		5E730DF82ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */; };
+		5E730DFA2ACEA99900C7A530 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -119,6 +120,7 @@
 		5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				5E730DF32ACDD35200C7A530 /* ModelBootcamp.swift */,
 				5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */,
 				5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */,
+				5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -320,6 +323,7 @@
 				5E730DDC2ACD5CCF00C7A530 /* ToggleBootcamp.swift in Sources */,
 				5E730DF62ACE99E900C7A530 /* ViewModelBootcamp.swift in Sources */,
 				5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */,
+				5E730DFA2ACEA99900C7A530 /* AppStorageBootcamp.swift in Sources */,
 				5E730DEE2ACDC50E00C7A530 /* OnAppearBootcamp.swift in Sources */,
 				5E730DEC2ACDB43C00C7A530 /* DocumentationBootcamp.swift in Sources */,
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
