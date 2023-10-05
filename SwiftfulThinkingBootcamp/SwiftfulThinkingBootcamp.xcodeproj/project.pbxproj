@@ -62,6 +62,9 @@
 		5E730DF62ACE99E900C7A530 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */; };
 		5E730DF82ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */; };
 		5E730DFA2ACEA99900C7A530 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */; };
+		5E730DFD2ACED85C00C7A530 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DFC2ACED85C00C7A530 /* IntroView.swift */; };
+		5E730DFF2ACED88900C7A530 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730DFE2ACED88900C7A530 /* OnboardingView.swift */; };
+		5E730E012ACED8B200C7A530 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E002ACED8B200C7A530 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -121,6 +124,9 @@
 		5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
+		5E730DFC2ACED85C00C7A530 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		5E730DFE2ACED88900C7A530 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		5E730E002ACED8B200C7A530 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +212,7 @@
 				5E730DF52ACE99E900C7A530 /* ViewModelBootcamp.swift */,
 				5E730DF72ACEA47E00C7A530 /* EnvironmentObjectBootcamp.swift */,
 				5E730DF92ACEA99900C7A530 /* AppStorageBootcamp.swift */,
+				5E730DFB2ACED84500C7A530 /* OnboardingViews */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -218,6 +225,16 @@
 				5E730D8E2A8A672D00C7A530 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5E730DFB2ACED84500C7A530 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				5E730DFC2ACED85C00C7A530 /* IntroView.swift */,
+				5E730DFE2ACED88900C7A530 /* OnboardingView.swift */,
+				5E730E002ACED8B200C7A530 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -313,6 +330,7 @@
 				5E730DD22ACBF3CC00C7A530 /* AlertBootcamp.swift in Sources */,
 				5E730D982A8D0D9E00C7A530 /* ShapesBootcamp.swift in Sources */,
 				5E730DB62ACAA68D00C7A530 /* ButtonsBootcamp.swift in Sources */,
+				5E730DFD2ACED85C00C7A530 /* IntroView.swift in Sources */,
 				5E730DC62ACAEDFD00C7A530 /* AnimationTimingBootcamp.swift in Sources */,
 				5E730DDE2ACD717800C7A530 /* PickerBootcamp.swift in Sources */,
 				5E730DB42AA4890100C7A530 /* SafeAreaBootcamp.swift in Sources */,
@@ -329,9 +347,11 @@
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
 				5E730DCC2ACB170C00C7A530 /* PopoverBootcamp.swift in Sources */,
 				5E730DEA2ACDAED100C7A530 /* DarkModeBootcamp.swift in Sources */,
+				5E730E012ACED8B200C7A530 /* ProfileView.swift in Sources */,
 				5E730DE42ACD916F00C7A530 /* StepperBootcamp.swift in Sources */,
 				5E730DBE2ACAC0CB00C7A530 /* BindingBootcamp.swift in Sources */,
 				5E730DE02ACD735900C7A530 /* ColorPickerBootcamp.swift in Sources */,
+				5E730DFF2ACED88900C7A530 /* OnboardingView.swift in Sources */,
 				5E730DAA2AA46C5D00C7A530 /* SpacerBootcamp.swift in Sources */,
 				5E730DD82ACD4B5500C7A530 /* TextfieldBootcamp.swift in Sources */,
 				5E730DE62ACD945100C7A530 /* SliderBootcamp.swift in Sources */,
