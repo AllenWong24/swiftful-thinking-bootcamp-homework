@@ -72,6 +72,7 @@
 		5E730E0B2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0A2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift */; };
 		5E730E0D2ACFECA000C7A530 /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0C2ACFECA000C7A530 /* BadgesBootcamp.swift */; };
 		5E730E0F2AD0088F00C7A530 /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0E2AD0088F00C7A530 /* FocusStateBootcamp.swift */; };
+		5E730E112AD01D9500C7A530 /* SubmitTextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E102AD01D9500C7A530 /* SubmitTextFieldBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -141,6 +142,7 @@
 		5E730E0A2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
 		5E730E0C2ACFECA000C7A530 /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
 		5E730E0E2AD0088F00C7A530 /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
+		5E730E102AD01D9500C7A530 /* SubmitTextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 		5E730D7B2A8A672B00C7A530 = {
 			isa = PBXGroup;
 			children = (
+				5E730E102AD01D9500C7A530 /* SubmitTextFieldBootcamp.swift */,
 				5E730D862A8A672B00C7A530 /* SwiftfulThinkingBootcamp */,
 				5E730D852A8A672B00C7A530 /* Products */,
 			);
@@ -370,6 +373,7 @@
 				5E730DEC2ACDB43C00C7A530 /* DocumentationBootcamp.swift in Sources */,
 				5E730DA62AA392CD00C7A530 /* StacksBootcamp.swift in Sources */,
 				5E730DCC2ACB170C00C7A530 /* PopoverBootcamp.swift in Sources */,
+				5E730E112AD01D9500C7A530 /* SubmitTextFieldBootcamp.swift in Sources */,
 				5E730DEA2ACDAED100C7A530 /* DarkModeBootcamp.swift in Sources */,
 				5E730E012ACED8B200C7A530 /* ProfileView.swift in Sources */,
 				5E730DE42ACD916F00C7A530 /* StepperBootcamp.swift in Sources */,

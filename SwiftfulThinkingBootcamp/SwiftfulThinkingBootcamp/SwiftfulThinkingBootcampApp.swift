@@ -13,7 +13,8 @@ struct SwiftfulThinkingBootcampApp: App {
         WindowGroup {
 //            AppStorageBootcamp()
 //            IntroView()
-            FocusStateBootcamp()
+//            FocusStateBootcamp()
+            SubmitTextFieldBootcamp()
         }
     }
 }
