@@ -71,6 +71,7 @@
 		5E730E092ACFE8B500C7A530 /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E082ACFE8B500C7A530 /* ButtonStylesBootcamp.swift */; };
 		5E730E0B2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0A2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift */; };
 		5E730E0D2ACFECA000C7A530 /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0C2ACFECA000C7A530 /* BadgesBootcamp.swift */; };
+		5E730E0F2AD0088F00C7A530 /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E0E2AD0088F00C7A530 /* FocusStateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +140,7 @@
 		5E730E082ACFE8B500C7A530 /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
 		5E730E0A2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
 		5E730E0C2ACFECA000C7A530 /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
+		5E730E0E2AD0088F00C7A530 /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +233,7 @@
 				5E730E082ACFE8B500C7A530 /* ButtonStylesBootcamp.swift */,
 				5E730E0A2ACFEB1C00C7A530 /* ListSwipeActionsBootcamp.swift */,
 				5E730E0C2ACFECA000C7A530 /* BadgesBootcamp.swift */,
+				5E730E0E2AD0088F00C7A530 /* FocusStateBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -373,6 +376,7 @@
 				5E730DBE2ACAC0CB00C7A530 /* BindingBootcamp.swift in Sources */,
 				5E730DE02ACD735900C7A530 /* ColorPickerBootcamp.swift in Sources */,
 				5E730DFF2ACED88900C7A530 /* OnboardingView.swift in Sources */,
+				5E730E0F2AD0088F00C7A530 /* FocusStateBootcamp.swift in Sources */,
 				5E730E0D2ACFECA000C7A530 /* BadgesBootcamp.swift in Sources */,
 				5E730DAA2AA46C5D00C7A530 /* SpacerBootcamp.swift in Sources */,
 				5E730E052ACFE4D500C7A530 /* BackgroundMaterialsBootcamp.swift in Sources */,
