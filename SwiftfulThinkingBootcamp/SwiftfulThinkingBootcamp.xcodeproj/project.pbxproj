@@ -77,6 +77,7 @@
 		5E730E152AD0303900C7A530 /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */; };
 		5E730E172AD0344A00C7A530 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */; };
 		5E730E192AD0365200C7A530 /* SafeAreaInsetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */; };
+		5E730E1B2AD03ABD00C7A530 /* GroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -151,6 +152,7 @@
 		5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 		5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
 		5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetBootcamp.swift; sourceTree = "<group>"; };
+		5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,6 +251,7 @@
 				5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */,
 				5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */,
 				5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */,
+				5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -383,6 +386,7 @@
 				5E730DDC2ACD5CCF00C7A530 /* ToggleBootcamp.swift in Sources */,
 				5E730E032ACFE2CF00C7A530 /* AsyncImageBoocamp.swift in Sources */,
 				5E730DF62ACE99E900C7A530 /* ViewModelBootcamp.swift in Sources */,
+				5E730E1B2AD03ABD00C7A530 /* GroupBootcamp.swift in Sources */,
 				5E730DC82ACAFA9900C7A530 /* TransitionBootcamp.swift in Sources */,
 				5E730DFA2ACEA99900C7A530 /* AppStorageBootcamp.swift in Sources */,
 				5E730DEE2ACDC50E00C7A530 /* OnAppearBootcamp.swift in Sources */,
