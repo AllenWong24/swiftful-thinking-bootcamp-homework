@@ -78,6 +78,7 @@
 		5E730E172AD0344A00C7A530 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */; };
 		5E730E192AD0365200C7A530 /* SafeAreaInsetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */; };
 		5E730E1B2AD03ABD00C7A530 /* GroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */; };
+		5E730E1D2AD03DDD00C7A530 /* AnimationUpdatedBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E1C2AD03DDD00C7A530 /* AnimationUpdatedBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -153,6 +154,7 @@
 		5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
 		5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetBootcamp.swift; sourceTree = "<group>"; };
 		5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBootcamp.swift; sourceTree = "<group>"; };
+		5E730E1C2AD03DDD00C7A530 /* AnimationUpdatedBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdatedBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -252,6 +254,7 @@
 				5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */,
 				5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */,
 				5E730E1A2AD03ABD00C7A530 /* GroupBootcamp.swift */,
+				5E730E1C2AD03DDD00C7A530 /* AnimationUpdatedBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -369,6 +372,7 @@
 				5E730DC22ACADE3B00C7A530 /* TernaryBootcamp.swift in Sources */,
 				5E730E072ACFE5D900C7A530 /* TextSelectionBootcamp.swift in Sources */,
 				5E730DD22ACBF3CC00C7A530 /* AlertBootcamp.swift in Sources */,
+				5E730E1D2AD03DDD00C7A530 /* AnimationUpdatedBootcamp.swift in Sources */,
 				5E730E132AD02B3900C7A530 /* NavigationStackBootcamp.swift in Sources */,
 				5E730D982A8D0D9E00C7A530 /* ShapesBootcamp.swift in Sources */,
 				5E730DB62ACAA68D00C7A530 /* ButtonsBootcamp.swift in Sources */,
