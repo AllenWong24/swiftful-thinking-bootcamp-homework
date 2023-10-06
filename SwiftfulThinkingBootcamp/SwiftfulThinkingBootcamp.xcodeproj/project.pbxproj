@@ -76,6 +76,7 @@
 		5E730E132AD02B3900C7A530 /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E122AD02B3900C7A530 /* NavigationStackBootcamp.swift */; };
 		5E730E152AD0303900C7A530 /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */; };
 		5E730E172AD0344A00C7A530 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */; };
+		5E730E192AD0365200C7A530 /* SafeAreaInsetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -149,6 +150,7 @@
 		5E730E122AD02B3900C7A530 /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
 		5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 		5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
+		5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +248,7 @@
 				5E730E122AD02B3900C7A530 /* NavigationStackBootcamp.swift */,
 				5E730E142AD0303900C7A530 /* ToolbarBootcamp.swift */,
 				5E730E162AD0344A00C7A530 /* ResizableSheetBootcamp.swift */,
+				5E730E182AD0365200C7A530 /* SafeAreaInsetBootcamp.swift */,
 				5E730D8B2A8A672D00C7A530 /* Assets.xcassets */,
 				5E730D8D2A8A672D00C7A530 /* Preview Content */,
 			);
@@ -358,6 +361,7 @@
 				5E730DA22AA3373300C7A530 /* FrameBootcamp.swift in Sources */,
 				5E730DBA2ACAB58A00C7A530 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				5E730DF02ACDC9FD00C7A530 /* IfLetGuardBootcamp.swift in Sources */,
+				5E730E192AD0365200C7A530 /* SafeAreaInsetBootcamp.swift in Sources */,
 				5E730DAC2AA4721F00C7A530 /* InitializerBootcamp.swift in Sources */,
 				5E730DC22ACADE3B00C7A530 /* TernaryBootcamp.swift in Sources */,
 				5E730E072ACFE5D900C7A530 /* TextSelectionBootcamp.swift in Sources */,
